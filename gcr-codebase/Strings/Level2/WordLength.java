@@ -1,14 +1,14 @@
 import java.util.Scanner;
-class WordLength{
+public class WordLength{
 
 	//Method for length
-	static int len(String s){
+	public static int len(String s){
 		int c=0;try{while(true){s.charAt(c++);}}catch(Exception e){}
 		return c-1;
 	}
 	
 	//Method for word length
-	static String[][] wordLength(String words[]){
+	public static String[][] wordLength(String words[]){
 		String r[][]=new String[words.length][2];
 		for(int i=0;i<words.length;i++){
 			r[i][0]=words[i];
