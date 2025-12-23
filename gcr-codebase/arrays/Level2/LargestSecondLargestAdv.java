@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class LargestSecondLargestAdv{
+public class LargestSecondLargestAdv{
 public static void main(String args[]){
 
 	//Taking input of number from user
