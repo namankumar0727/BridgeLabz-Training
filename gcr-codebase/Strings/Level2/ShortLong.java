@@ -1,7 +1,7 @@
-class ShortLong{
+public class ShortLong{
 
 	//Method to find shortlong
-	static int[] shortLong(String[][] a){
+	public static int[] shortLong(String[][] a){
 		int min=0,max=0;
 		for(int i=1;i<a.length;i++){
 			if(Integer.parseInt(a[i][1])<Integer.parseInt(a[min][1])){
