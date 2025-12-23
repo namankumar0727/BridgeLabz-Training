@@ -1,5 +1,5 @@
 import java.util.Scanner;
-	class BMICalculator{
+	public class BMICalculator{
 	public static void main(String args[]){
 	
 	//Taking weight and height
