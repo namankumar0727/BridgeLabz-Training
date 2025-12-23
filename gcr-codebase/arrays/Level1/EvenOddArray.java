@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class EvenOddArray{
+public class EvenOddArray{
 public static void main(String args[]){
 
 	//Taking input of number
