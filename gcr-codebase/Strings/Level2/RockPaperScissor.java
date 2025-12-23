@@ -1,14 +1,14 @@
 import java.util.Scanner;
-class RockPaperScissor{
+public class RockPaperScissor{
 	
 	//Method for computer
-	static String computer(){
+	public static String computer(){
 		String a[]={"rock","paper","scissors"};
 		return a[(int)(Math.random()*3)];
 	}
 
 	//Method for winner
-	static int winner(String u,String c){
+	public static int winner(String u,String c){
 		if(u.equals(c))return 0;
 		if((u.equals("rock")&&c.equals("scissors"))||
 		(u.equals("paper")&&c.equals("rock"))||
