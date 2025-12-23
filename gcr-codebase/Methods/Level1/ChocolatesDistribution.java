@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ChocolatesDistribution{
+public class ChocolatesDistribution{
 	
 	//Method for calculating chocolate distribution
 	public static int[] findDistribution(int chocolates,int children){
