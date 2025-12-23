@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class FindWindChill{
+public class FindWindChill{
 
 	//Method for calculating WindChill
 	public static double calculateWindChill(double temperature,double windSpeed){
