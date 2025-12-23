@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class FindQuotientRemainder{
+public class FindQuotientRemainder{
 
 	//Method to calculate the Quotient and the remainder
 	public static int[] findRemainderAndQuotient(int num,int divisor){
