@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class TotalRounds{
+public class TotalRounds{
 
 	//Method to calculate Rounds
-	static int calculateTotalRounds(int a,int b,int c){
+	public static int calculateTotalRounds(int a,int b,int c){
 		int perimeter=a+b+c;
 		return 5000/perimeter;
 	}
