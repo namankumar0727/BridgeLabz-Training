@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class FactorsArray{
+public class FactorsArray{
 public static void main(String args[]){
 
 	//Taking input from the user and implementing the method
