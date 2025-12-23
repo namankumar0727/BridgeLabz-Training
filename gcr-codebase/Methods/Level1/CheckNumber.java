@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class CheckNumber{
+public class CheckNumber{
 
 	//Method to check if the number is positive, negative or zero
-	static int numberCheck(int n){
+	public static int numberCheck(int n){
 		if(n>0)return 1;
 		if(n<0)return -1;
 		return 0;
