@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class OperationsOnFactors{
+public class OperationsOnFactors{
 
 	//Method to count Factors and make factor array
 	public static int[] findFactors(int number){
