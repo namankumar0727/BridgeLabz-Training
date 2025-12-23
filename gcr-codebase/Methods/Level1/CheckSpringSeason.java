@@ -1,7 +1,7 @@
-class CheckSpringSeason{
+public class CheckSpringSeason{
 
 	//Method to check if it is a spring season or not
-	static boolean isSpringSeason(int month,int day){
+	public static boolean isSpringSeason(int month,int day){
 		if(month==3 && day>=20){
 			return true;
 		}
