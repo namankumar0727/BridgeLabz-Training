@@ -1,13 +1,13 @@
-class NullPointerDemo{
+public class NullPointerDemo{
 
 	//Method to generate Exception
-	static void generateException(){
+	public static void generateException(){
 		String text=null;
 		text.length();
 	}
 	
 	//Method to handle Exception
-	static void handleException(){
+	public static void handleException(){
 		String text=null;
 		try{
 			text.length();
