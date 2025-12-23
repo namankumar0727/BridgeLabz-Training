@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class TrimText{
+public class TrimText{
 
 	//Method to trim Index
-	static int[] trimIndex(String s){
+	public static int[] trimIndex(String s){
 		int i=0,j=s.length()-1;
 		while(s.charAt(i)==' ')
 			i++;
@@ -12,7 +12,7 @@ class TrimText{
 	}
 	
 	//Method to get substring
-	static String sub(String s,int a,int b){
+	public static String sub(String s,int a,int b){
 		String r="";
 		for(int i=a;i<b;i++)
 			r+=s.charAt(i);
@@ -20,7 +20,7 @@ class TrimText{
 	}
 	
 	//Method for comparison
-	static boolean compare(String a,String b){
+	public static boolean compare(String a,String b){
 		if(a.length()!=b.length())return false;
 		for(int i=0;i<a.length();i++){
 			if(a.charAt(i)!=b.charAt(i)){
