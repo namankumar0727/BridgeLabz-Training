@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CompareUpperCase{
+public class CompareUpperCase{
 	
 	//Method to convert to Upper	
 	static String toUpper(String s){
@@ -17,7 +17,7 @@ class CompareUpperCase{
 	}
 	
 	//Method to compare both strings
-	static boolean compare(String a,String b){
+	public static boolean compare(String a,String b){
 		if(a.length()!=b.length()){
 			return false;
 		}
