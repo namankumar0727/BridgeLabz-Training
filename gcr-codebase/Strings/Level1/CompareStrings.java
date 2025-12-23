@@ -1,8 +1,8 @@
 import java.util.Scanner;
-	class CompareStrings{
+public class CompareStrings{
 	
 		//Method to compare using charAt method
-		static boolean compareUsingCharAt(String s1,String s2){
+		public static boolean compareUsingCharAt(String s1,String s2){
 			if(s1.length()!=s2.length()){
 					return false;
 			}
