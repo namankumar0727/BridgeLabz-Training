@@ -1,13 +1,13 @@
 import java.util.Scanner;
-class NumberFormat{
+public class NumberFormat{
 
 	//Method to generate Exception
-	static void generateException(String s){
+	public static void generateException(String s){
 		Integer.parseInt(s);
 	}
 	
 	//Method to handle Exception
-	static void handleException(String s){
+	public static void handleException(String s){
 		
 		try{
 			Integer.parseInt(s);
