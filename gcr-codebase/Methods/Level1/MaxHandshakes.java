@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class MaxHandshakes{
+public class MaxHandshakes{
 
 	//Method to calculate Handshakes
-	static int calculateHandshakes(int n){
+	public static int calculateHandshakes(int n){
 		return (n*(n-1))/2;
 	}
 	
