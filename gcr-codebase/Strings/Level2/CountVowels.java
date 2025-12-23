@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class CountVowels{
+public class CountVowels{
 	
 	//Method for the string type
-	static String type(char c){
+	public static String type(char c){
 		if(c>='A'&&c<='Z'){
 			c=(char)(c+32);
 		}
@@ -17,7 +17,7 @@ class CountVowels{
 	}
 	
 	//Method to count
-	static int[] count(String s){
+	public static int[] count(String s){
 		int v=0,c=0;
 		for(int i=0;i<s.length();i++){
 			String t=type(s.charAt(i));
