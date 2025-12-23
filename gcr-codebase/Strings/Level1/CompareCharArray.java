@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class CompareCharArray{
+public class CompareCharArray{
 	
 	//Method to get Chars
-	static char[] getChars(String s){
+	public static char[] getChars(String s){
 		char arr[]=new char[s.length()];
 		for(int i=0;i<s.length();i++){
 			arr[i]=s.charAt(i);
@@ -11,7 +11,7 @@ class CompareCharArray{
 	}
 	
 	//Method to Compare Arrays
-	static boolean compareArrays(char a[],char b[]){	
+	public static boolean compareArrays(char a[],char b[]){	
 		if(a.length!=b.length){
 			return false;
 		}
