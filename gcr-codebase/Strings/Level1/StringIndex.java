@@ -1,13 +1,13 @@
 import java.util.Scanner;
-class StringIndex{
+public class StringIndex{
 
 	//Method to generate Exception
-	static void generateException(String s){
+	public static void generateException(String s){
 		s.charAt(s.length());
 	}
 	
 	//Method to handle Exception
-	static void handleException(String s){
+	public static void handleException(String s){
 		try{
 			s.charAt(s.length());
 	}
