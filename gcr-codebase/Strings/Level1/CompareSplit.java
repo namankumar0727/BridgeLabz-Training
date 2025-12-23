@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CompareSplit{
+public class CompareSplit{
 
 	//Method to find Length
 	static int length(String s){
@@ -8,7 +8,7 @@ class CompareSplit{
 		}
 	
 	//Method to find word Length
-	static String[] split(String s){
+	public static String[] split(String s){
 		int len=length(s),count=1;
 		for(int i=0;i<len;i++)if(s.charAt(i)==' ')count++;
 		int space[]=new int[count+1];
@@ -28,7 +28,7 @@ class CompareSplit{
 	
 	
 	//Method to compare
-	static boolean compare(String a[],String b[]){
+	public static boolean compare(String a[],String b[]){
 		
 		//Calling method
 		if(a.length!=b.length)return false;
