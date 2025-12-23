@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class MultiplicationTable{
+public class MultiplicationTable{
 	public static void main(String args[]){
 	
 	//Taking input of a number and calculating multiplcation table
