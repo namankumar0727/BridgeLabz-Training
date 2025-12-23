@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class BMICalculator2D{
+public class BMICalculator2D{
 public static void main(String args[]){
 
 	//Taking input
