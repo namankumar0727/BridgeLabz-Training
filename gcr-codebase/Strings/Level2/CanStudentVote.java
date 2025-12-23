@@ -1,7 +1,7 @@
-class CanStudentVote{
+public class CanStudentVote{
 	
 	//Method to generate Ages
-	static int[] generateAges(int n){
+	public static int[] generateAges(int n){
 		int a[]=new int[n];
 		for(int i=0;i<n;i++){
 			a[i]=10+(int)(Math.random()*50);
@@ -9,7 +9,7 @@ class CanStudentVote{
 		return a;
 	}
 	
-	static String[][] canVote(int a[]){
+	public static String[][] canVote(int a[]){
 		
 		//Method to get the new string
 		String r[][]=new String[a.length][2];
