@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class StoreSum{
+public class StoreSum{
 public static void main(String args[]){
 	
 	//Taking input of the user in the array
