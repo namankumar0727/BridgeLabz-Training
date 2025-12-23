@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class FindLengthString{
+public class FindLengthString{
 	
 	//Method to find the length
-	static int findLength(String s){
+	public static int findLength(String s){
 			int count=0;
 			try{
 				while(true){
