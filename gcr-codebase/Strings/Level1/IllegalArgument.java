@@ -1,13 +1,13 @@
 import java.util.Scanner;
-class IllegalArgument{
+public class IllegalArgument{
 
 	//Method to generate exception
-	static void generateException(String s){
+	public static void generateException(String s){
 		s.substring(5,2);
 	}
 	
 	//Calling method to handle exception
-	static void handleException(String s){
+	public static void handleException(String s){
 		
 		try{
 			s.substring(5,2);
