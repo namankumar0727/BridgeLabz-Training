@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class CompareLowerCase{
+public class CompareLowerCase{
 	
 	//Method to convert to lower Strings
-	static String toLower(String s){
+	public static String toLower(String s){
 		String r="";
 		for(int i=0;i<s.length();i++){
 			char c=s.charAt(i);
@@ -17,7 +17,7 @@ class CompareLowerCase{
 	}
 	
 	//Method to Compare Two Strings
-	static boolean compare(String a,String b){
+	public static boolean compare(String a,String b){
 	
 		if(a.length()!=b.length())return false;
 		for(int i=0;i<a.length();i++){
