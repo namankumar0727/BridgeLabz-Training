@@ -1,4 +1,4 @@
-class UnitConvertorAdvanced{
+public class UnitConvertorAdvanced{
 	
 	//Method to convert Farhenheit To Celsius
 	public static double convertFarhenheitToCelsius(double f){
