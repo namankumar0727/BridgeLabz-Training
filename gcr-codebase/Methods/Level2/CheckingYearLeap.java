@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CheckingYearLeap{
+public class CheckingYearLeap{
 	
 	//Method to check if the year is a leap year or not
 	public static boolean checkLeapYear(int year){
