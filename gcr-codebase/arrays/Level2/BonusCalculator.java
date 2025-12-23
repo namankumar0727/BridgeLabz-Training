@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class BonusCalculator{
+public class BonusCalculator{
 	public static void main(String args[]){
 	
 	//Taking inputs from the user
