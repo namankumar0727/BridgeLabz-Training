@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class MeanHeight{
+public class MeanHeight{
 	public static void main(String args[]){
 	
 	//Taking input of heights in an array
