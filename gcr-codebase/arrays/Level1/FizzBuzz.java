@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class FizzBuzz{
+public class FizzBuzz{
 	public static void main(String args[]){
 	
 	//Taking the user input in number
