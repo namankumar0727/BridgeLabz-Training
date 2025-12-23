@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class LargestSecondLargest{
+public class LargestSecondLargest{
 public static void main(String args[]){
 
 	//Taking input of number
