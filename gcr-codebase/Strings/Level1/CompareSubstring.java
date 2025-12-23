@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CompareSubstring{
+public class CompareSubstring{
 	
 	//Method to make a substring using CharAt
 	static String subStringUsingCharAt(String s,int start,int end){
@@ -11,7 +11,7 @@ class CompareSubstring{
 	}
 	
 	//Method to compare using Char At
-	static boolean compareUsingCharAt(String s1,String s2){
+	public static boolean compareUsingCharAt(String s1,String s2){
 		if(s1.length()!=s2.length()){
 			return false;
 		}
