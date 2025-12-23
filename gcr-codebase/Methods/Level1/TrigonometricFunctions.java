@@ -1,5 +1,5 @@
 import java.util.Scanner;
-	class TrigonometricFunctions{
+	public class TrigonometricFunctions{
 	
 	//Method for calculating various Trigonometric Functions
 	public static double[] calculateTrigonometricFunctions(double angle){
