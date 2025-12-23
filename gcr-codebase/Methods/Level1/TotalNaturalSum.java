@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class TotalNaturalSum{
+public class TotalNaturalSum{
 
 	//Method to calculate Sum
-	static int totalSum(int n){
+	public static int totalSum(int n){
 		int sum=0;
 		for(int i=1;i<=n;i++){
 			sum+=i;
