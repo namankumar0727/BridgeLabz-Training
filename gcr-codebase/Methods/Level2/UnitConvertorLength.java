@@ -1,4 +1,4 @@
-class UnitConvertorLength{
+public class UnitConvertorLength{
 	
 	//Method to convert yards to feet
 	public static double convertYardsToFeet(double yards){
