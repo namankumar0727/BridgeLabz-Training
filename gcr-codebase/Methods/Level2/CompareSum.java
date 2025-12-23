@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CompareSum{
+public class CompareSum{
 
 	//Recursive method to find sum
 	public static int sum(int n){
