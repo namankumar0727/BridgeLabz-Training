@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CopyingArray{
+public class CopyingArray{
 public static void main(String args[]){
 
 	//Taking the input of rows and columns
