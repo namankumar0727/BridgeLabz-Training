@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class CheckNumberArray{
+public class CheckNumberArray{
 
     public static void main(String[] args) {
 
