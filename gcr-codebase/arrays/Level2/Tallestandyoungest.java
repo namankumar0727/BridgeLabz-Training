@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Tallestandyoungest{
+public class Tallestandyoungest{
 	public static void main(String args[]){
 	
 	//Taking user input in height and age
