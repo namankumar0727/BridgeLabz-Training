@@ -1,0 +1,46 @@
+📅 Week 1: Git, GitHub & Java Programming Fundamentals
+
+🗓 Day 1 – Git & GitHub Setup
+
+Date: 16 December 2025
+
+On the first day of training, the primary focus was on setting up version control tools and understanding the repository structure for efficient project management.
+
+✅ Activities Completed
+
+Installed and configured Git on the local system
+
+Created and configured a GitHub repository
+
+Learned and practiced essential Git commands, including:
+
+git init
+
+git clone
+
+git add
+
+git commit
+
+git push
+
+Successfully pushed local files to the remote repository
+
+📁 Project Structure
+BridgeLabz-Training/
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── builtin-functions/
+│   │   ├── control-flow/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   ├── string-handling/
+│   │   └── strings/
+│   ├── leet-code-codebase/
+│   └── scenario-based/
+└── README.md
+
+📌 Description
+
+This project structure is designed to organize Core Java practice programs in a clear and modular manner. It enhances code readability, simplifies navigation, and ensures easy maintenance as the training progresses.
