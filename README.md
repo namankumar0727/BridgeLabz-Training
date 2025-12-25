@@ -127,3 +127,12 @@ BridgeLabz-Training/
 👉 [Day 7 – Built In Functions](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
 
 ---
+
+### 🗓 Day 8 – Leetcode and Scenerio Based Questions
+**(Date: 24-Dec-2025)**
+
+- Practiced some Leetcode questions.
+- Improved the problem solving skills.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+👉 [Day 8 – Leetcode questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
