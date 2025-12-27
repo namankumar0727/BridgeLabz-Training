@@ -1,138 +1,100 @@
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+📅 Week 2: Object-Oriented Programming (OOPs)
+🗓 Day 1 – Objects and Classes
 
----
+(Date: 26-Dec-2025)
 
-### 🗓 Day 1 – Git & GitHub Setup  
-**(Date: 16-Dec-2025)**
+Learned the fundamentals of Object-Oriented Programming (OOPs) in Java.
 
-- Installed and configured Git.
-- Set up GitHub repository.
-```
-BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
-```
-- Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
-- Successfully pushed files to the remote repository.
+Implemented 10 programs (5 Level 1 + 5 Level 2) using real-world examples.
 
----
+Understood how objects and classes represent real-world entities.
 
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
+Studied core OOP concepts:
 
-- Practiced Git workflow to understand commits and version control.
-- Solved very basic Java programs to understand syntax and structure.
-- Practiced adding, committing, and pushing Java files to GitHub.
+Classes and Objects
 
-🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites)
+Constructors
 
----
+Methods
 
-### 🗓 Day 3 – Programming Elements in Java  
-**(Date: 18-Dec-2025)**
+Encapsulation
 
-- Studied Java programming elements:
-  - Variables and data types
-  - Operators
-  - User input and output
-- Solved practice problems based on programming elements.
-- Committed and pushed solutions to the repository.
+Real-world problem modeling
 
-🔗 **Code Link:**  
-👉 [Day 3 – Programming Elements](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+Basics of memory allocation
 
----
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 19-Dec-2025)**
+Implemented Level 1 practice programs:
 
-- Studied logical constructs in Java:
-  - if, if-else
-  - switch statement
-  - ternary operator
-- Practiced iteration statements:
-  - for loop
-  - while loop
-  - do-while loop
-- Used `break` and `continue` statements.
-- Solved logical problems such as:
-  - Factorial
-  - Prime number check
-- Committed and pushed solutions to the repository.
+Employee Details Program
 
-🔗 **Code Link:**  
-👉 [Day 4 – Control Flow](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+Area & Circumference of Circle
 
----
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**(Date: 20-Dec-2025)**
+Book Details Management
 
-- Studied arrays in Java:
-  - Single-dimensional arrays
-  - Multi-dimensional arrays
-- Practiced array traversal and operations.
-- Solved problems related to:
-  - Finding missing elements
-  - Basic array-based logic
-- Strengthened logical thinking using array problems.
-- Committed and pushed solutions to the repository.
+Inventory Tracking System
 
-🔗 **Code Link:**  
-👉 [Day 5 – Arrays](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+Mobile Phone Details Program
 
----
-### 🗓 Day 6 – Strings & Methods  
-**(Date: 22-Dec-2025)**
+Implemented Level 2 practice programs:
 
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
-- Studied Java methods:
-  - Method declaration
-  - Method calling
-  - Parameter passing
-- Practiced reusable logic using methods.
-- Committed and pushed solutions to the repository.
+Student Report & Grade Calculator
 
-🔗 **Code Link:**  
-👉 [Day 6 – Strings & Methods](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+ATM / Bank Account Simulation
 
----
+Palindrome String Checker
 
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
-**(Date: 23-Dec-2025)**
+Movie Ticket Booking System
 
-- Practiced Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
+Shopping Cart Simulation
 
-🔗 **Code Link:**  
-👉 [Day 7 – Built In Functions](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+🔗 Code Link:
+👉 Day 1 – Classes & Objects
 
----
+🗓 Day 2 – Constructors, Access Modifiers & OOPs Practice
 
-### 🗓 Day 8 – Leetcode and Scenerio Based Questions
-**(Date: 24-Dec-2025)**
+(Date: 27-Dec-2025)
 
-- Practiced some Leetcode questions.
-- Improved the problem solving skills.
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-👉 [Day 8 – Leetcode questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+Focused on constructors and access modifiers in Java.
+
+Practiced applying OOPs concepts through hands-on programs.
+
+Followed standard Java coding conventions and proper package structure.
+
+Practiced constructor-related programs:
+
+Book class with default and parameterized constructors
+
+Circle class using constructor chaining
+
+Person class using copy constructor
+
+Hotel Booking System using multiple constructors
+
+Library Book System with book borrowing functionality
+
+Car Rental System with rental cost calculation
+
+Practiced Instance vs Class variables and methods using:
+
+Product Inventory Management System
+
+Online Course Management System
+
+Vehicle Registration System
+
+Practiced access modifiers using:
+
+University Management System
+
+Book Library System with EBook subclass
+
+Bank Account Management using SavingsAccount subclass
+
+Employee Records with Manager subclass
+
+Organized all programs into proper folders.
+
+Committed and pushed all changes successfully.
+
+🔗 Code Link:
+👉 Day 2 – Constructors & Access Modifiers
