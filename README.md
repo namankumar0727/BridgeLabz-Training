@@ -1,100 +1,72 @@
-📅 Week 2: Object-Oriented Programming (OOPs)
-🗓 Day 1 – Objects and Classes
+### 📅 Week 2: Object-Oriented Programming (OOPs)
 
-(Date: 26-Dec-2025)
+---
 
-Learned the fundamentals of Object-Oriented Programming (OOPs) in Java.
+### 🗓 Day 1 – Objects and Classes  
+**(Date: 26-Dec-2025)**
 
-Implemented 10 programs (5 Level 1 + 5 Level 2) using real-world examples.
+- Learned the fundamentals of Object-Oriented Programming (OOPs) in Java.
+- Implemented 10 programs (5 Level 1 + 5 Level 2) using real-world examples.
+- Understood object creation and real-world problem modeling.
 
-Understood how objects and classes represent real-world entities.
+- Studied OOP concepts:
+  - Classes and Objects
+  - Constructors
+  - Methods
+  - Encapsulation
+  - Memory allocation basics
 
-Studied core OOP concepts:
+- Level 1 Programs:
+  - Employee Details Program
+  - Area & Circumference of Circle
+  - Book Details Management
+  - Inventory Tracking System
+  - Mobile Phone Details Program
 
-Classes and Objects
+- Level 2 Programs:
+  - Student Report & Grade Calculator
+  - ATM / Bank Account Simulation
+  - Palindrome String Checker
+  - Movie Ticket Booking System
+  - Shopping Cart Simulation
 
-Constructors
+🔗 **Code Link:**  
+👉 [Day 2 – Objects and Classes](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
 
-Methods
+---
 
-Encapsulation
+### 🗓 Day 2 – Constructors, Access Modifiers & OOPs Practice  
+**(Date: 27-Dec-2025)**
 
-Real-world problem modeling
+- Focused on constructors, access modifiers, and OOP best practices.
+- Practiced writing clean and modular Java code.
 
-Basics of memory allocation
+- Constructor Practice:
+  - Default and parameterized constructors
+  - Constructor chaining
+  - Copy constructors
 
-Implemented Level 1 practice programs:
+- Programs Implemented:
+  - Book Management System
+  - Hotel Booking System
+  - Library Book System
+  - Car Rental System
 
-Employee Details Program
+- Instance vs Class Variables:
+  - Product Inventory System
+  - Online Course Management
+  - Vehicle Registration System
 
-Area & Circumference of Circle
+- Access Modifiers Practice:
+  - University Management System
+  - Book Library System with EBook subclass
+  - Bank Account Management System
+  - Employee Records with Manager subclass
 
-Book Details Management
+- Organized code using proper packages.
+- Committed and pushed all changes successfully.
 
-Inventory Tracking System
+🔗 **Code Link:**  
+👉 [Day 2 – Constructors](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor/levelone)
 
-Mobile Phone Details Program
-
-Implemented Level 2 practice programs:
-
-Student Report & Grade Calculator
-
-ATM / Bank Account Simulation
-
-Palindrome String Checker
-
-Movie Ticket Booking System
-
-Shopping Cart Simulation
-
-🔗 Code Link:
-👉 Day 1 – Classes & Objects
-
-🗓 Day 2 – Constructors, Access Modifiers & OOPs Practice
-
-(Date: 27-Dec-2025)
-
-Focused on constructors and access modifiers in Java.
-
-Practiced applying OOPs concepts through hands-on programs.
-
-Followed standard Java coding conventions and proper package structure.
-
-Practiced constructor-related programs:
-
-Book class with default and parameterized constructors
-
-Circle class using constructor chaining
-
-Person class using copy constructor
-
-Hotel Booking System using multiple constructors
-
-Library Book System with book borrowing functionality
-
-Car Rental System with rental cost calculation
-
-Practiced Instance vs Class variables and methods using:
-
-Product Inventory Management System
-
-Online Course Management System
-
-Vehicle Registration System
-
-Practiced access modifiers using:
-
-University Management System
-
-Book Library System with EBook subclass
-
-Bank Account Management using SavingsAccount subclass
-
-Employee Records with Manager subclass
-
-Organized all programs into proper folders.
-
-Committed and pushed all changes successfully.
-
-🔗 Code Link:
-👉 Day 2 – Constructors & Access Modifiers
+---
