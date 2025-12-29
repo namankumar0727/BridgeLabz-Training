@@ -70,3 +70,48 @@
 👉 [Day 2 – Constructors](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor/levelone)
 
 ---
+
+## 🗓 Day 3 – Static, Final & Object Behavior  
+**Date:** 29 December 2025
+
+On the third day of training, the focus was on understanding important Java keywords and operators that control memory, immutability, and object behavior. Along with theory, multiple real-world practice programs and scenario-based problems were implemented to strengthen practical understanding.
+
+---
+
+### ✅ Activities Completed
+
+#### 📘 Learned Core Java Keywords and Concepts
+- **static keyword**  
+  (class-level variables and methods)
+- **final keyword**  
+  (constants, method prevention, and immutability)
+- **instanceof operator**  
+  (runtime object type checking)
+
+#### 🛠 Developed Practice Programs Using Real-World Entities
+- BankAccount  
+- Book  
+- Library  
+- Company  
+- Patient  
+- Product  
+- Student  
+- Vehicle  
+
+#### 🧩 Applied Object-Oriented Principles
+- Encapsulation  
+- Class design  
+- Method usage  
+
+#### ✨ Coding Practices
+- Practiced writing clean and structured Java programs  
+- Followed proper naming conventions  
+
+#### 🔄 Version Control
+- Committed and pushed all completed programs to the remote repository  
+- Used standard Git practices  
+
+---
+
+### 🔗 Code Reference
+👉 [Day 3 – Static & Final Concepts](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
