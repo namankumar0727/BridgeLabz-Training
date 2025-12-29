@@ -24,6 +24,8 @@ public class GuessTheNumber{
 			}
 			count++;
 		}while(count<=5);
+		
+		System.out.println("Sorry The answer Was "+generate);
 	}
 
 }
