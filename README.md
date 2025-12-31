@@ -257,3 +257,26 @@ On the third day of training, the focus was on understanding important Java keyw
 
 ### 🔗 Code Reference
 👉 [Day 3 – Static & Final Concepts](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
+
+
+## 🗓 Day 4 – Built-in Functions & Extra Work
+**Date:** 23 December 2025
+
+On the seventh day of training, the focus was on utilizing Java built-in functions and strengthening problem-solving skills through additional hands-on practice.
+
+---
+
+### Activities Completed
+
+- Practiced the use of commonly used Java built-in functions.
+- Implemented utility-based programs, including:
+- Temperature Converter
+- Enhanced understanding of:
+- User input handling
+- Type conversion mechanisms
+#### Organized implemented programs into appropriate directories following standard project structure.
+#### Committed and pushed all changes to the remote repository using standard Git workflows.
+### 🔗 Code Reference:
+👉 [Day 4 – Built-in Functions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodelling/levelone)
+
+---
