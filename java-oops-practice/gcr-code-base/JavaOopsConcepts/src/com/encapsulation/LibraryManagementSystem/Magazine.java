@@ -1,7 +1,5 @@
 package com.encapsulation.LibraryManagementSystem;
 
-package com.encapsulationpolymorphisminterfaceandabstract.librarymanagementsystem;
-
 class Magazine extends LibraryItem implements Reservable {
 
     public Magazine(int id, String title, String author) {
