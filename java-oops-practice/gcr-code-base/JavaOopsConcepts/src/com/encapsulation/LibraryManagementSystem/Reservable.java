@@ -1,5 +1,7 @@
 package com.encapsulation.LibraryManagementSystem;
 
-public class Reservable {
-
+interface Reservable {
+    void reserveItem(String borrowerName);
+    boolean checkAvailability();
 }
+
