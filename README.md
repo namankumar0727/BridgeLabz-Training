@@ -138,3 +138,86 @@ On the seventh day of training, the focus was on utilizing Java built-in functio
 👉 [Day 4 – Built-in Functions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodelling/levelone)
 
 ---
+
+
+### 🗓 Day 5 – OOPs Inheritance (All types)  
+**Date: 31-Dec-2025**
+
+- **Inheritance**
+  - Mechanism where one class acquires the properties and behavior of another class.
+  - Promotes code reusability and hierarchical classification.
+
+- **Single Level Inheritance**
+  - One subclass inherits from one superclass.
+  - Example: `Child → Parent`
+
+- **Multilevel Inheritance**
+  - A class is derived from another derived class.
+  - Example: `Grandchild → Child → Parent`
+
+- **Hierarchical Inheritance**
+  - Multiple subclasses inherit from a single superclass.
+  - Example: `Child1 → Parent`, `Child2 → Parent`
+
+- **Key Features of Inheritance**
+  - Code reusability  
+  - Method overriding  
+  - Runtime polymorphism  
+  - Improved maintainability  
+  - Extensibility  
+
+- **Method Overriding**
+  - Subclass provides a specific implementation of a method already defined in the parent class.
+  - Achieved using the same method signature.
+
+- **Constructor Inheritance in Java**
+  - Constructors are **not inherited**.
+  - Parent class constructor is invoked using `super()` keyword.
+
+- **Polymorphism and Inheritance**
+  - Inheritance enables runtime polymorphism.
+  - Method calls are resolved based on object type, not reference type.
+
+- **Access Modifiers and Inheritance**
+  - `public` → Accessible everywhere  
+  - `protected` → Accessible within package and subclasses  
+  - `default` → Accessible within the same package  
+  - `private` → Not accessible in subclasses  
+
+ **Solved Many problem and push on github**
+
+**🔗 Code link:** [Inheritance in java](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritence/levelone)
+ 
+---
+
+## 📅 Day 6: OOPS Principles – Encapsulation, Polymorphism, Interfaces & Abstract Classes  
+**Date: 1 January 2026**  
+
+### 🔹 Topics Covered
+
+**Encapsulation**
+- Used `private` access modifiers for class fields  
+- Implemented public getters and setters with validation  
+- Created immutable classes using `final` fields  
+
+**Polymorphism**
+- Programmed using interfaces instead of implementations  
+- Applied method overriding correctly  
+- Avoided explicit casting and relied on runtime polymorphism  
+
+**Interfaces**
+- Defined contracts for common behaviors  
+- Combined multiple interfaces for modular design  
+- Preferred composition over inheritance  
+
+**Abstract Classes**
+- Shared common state and behavior  
+- Used abstract classes with interfaces  
+- Avoided deep inheritance hierarchies  
+
+### ✅ Practice Summary
+- Solved multiple Java programs based on OOPS concepts  
+- Followed Java naming conventions and clean coding practices  
+- Focused on readability, maintainability, and design principles
+
+**🔗 Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)  
