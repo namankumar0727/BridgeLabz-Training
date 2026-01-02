@@ -1,5 +1,7 @@
 package com.encapsulation.BankingSystem;
 
-public class Lonable {
 
+interface Loanable {
+    void applyForLoan(double amount);
+    boolean calculateLoanEligibility();
 }
