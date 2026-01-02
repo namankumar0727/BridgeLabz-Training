@@ -1,6 +1,5 @@
 package com.encapsulation.LibraryManagementSystem;
 
-package com.encapsulationpolymorphisminterfaceandabstract.librarymanagementsystem;
 
 class Book extends LibraryItem implements Reservable {
 
