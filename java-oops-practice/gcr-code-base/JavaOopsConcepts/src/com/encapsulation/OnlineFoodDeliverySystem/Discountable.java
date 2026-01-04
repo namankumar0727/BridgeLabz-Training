@@ -1,5 +1,6 @@
 package com.encapsulation.OnlineFoodDeliverySystem;
 
-public class Discountable {
-
+interface Discountable {
+    double applyDiscount();
+    String getDiscountDetails();
 }

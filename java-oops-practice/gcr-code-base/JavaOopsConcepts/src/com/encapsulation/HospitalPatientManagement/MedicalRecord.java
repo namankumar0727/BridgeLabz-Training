@@ -1,5 +1,6 @@
 package com.encapsulation.HospitalPatientManagement;
 
-public class MedicalRecord {
-
+interface MedicalRecord {
+    void addRecord(String diagnosis);
+    void viewRecords();
 }

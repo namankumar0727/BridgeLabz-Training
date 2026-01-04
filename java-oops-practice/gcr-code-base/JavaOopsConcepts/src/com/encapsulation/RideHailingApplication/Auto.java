@@ -1,5 +1,26 @@
 package com.encapsulation.RideHailingApplication;
 
-public class Auto {
 
+class Auto extends Vehicle implements GPS {
+
+    private String location;
+
+    public Auto(int id, String driver, double rate) {
+        super(id, driver, rate);
+    }
+
+    @Override
+    public double calculateFare(double distance) {
+        return (ratePerKm * distance) + 20; // base charge
+    }
+
+    @Override
+    public void updateLocation(String location) {
+        this.location = location;
+    }
+
+    @Override
+    public String getCurrentLocation() {
+        return location;
+    }
 }

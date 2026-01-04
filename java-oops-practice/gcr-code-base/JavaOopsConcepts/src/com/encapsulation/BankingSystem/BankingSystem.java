@@ -1,20 +1,30 @@
 package com.encapsulation.BankingSystem;
+public class BankingSystem {
 
-public public class BankingSystem {
     public static void main(String[] args) {
 
-        BankAccount savings =
-                new SavingsAccount("SA101", "Ravi", 60000);
+        BankAccount acc1 = new SavingsAccount("SB101", "Amit", 8000);
+        BankAccount acc2 = new CurrentAccount("CA201", "Rohit", 15000);
 
-        BankAccount current =
-                new CurrentAccount("CA202", "Anita", 120000);
+        BankAccount[] accounts = { acc1, acc2 };
 
-        savings.deposit(5000);
-        savings.withdraw(2000);
+        for (BankAccount acc : accounts) {
+            acc.displayAccountDetails();
 
-        current.deposit(10000);
+            double interest = acc.calculateInterest();
+            System.out.println("Interest Earned: " + interest);
 
-        BankingService.processAccount(savings);
-        BankingService.processAccount(current);
+            if (acc instanceof Loanable) {
+                Loanable loan = (Loanable) acc;
+                loan.applyForLoan(50000);
+
+                if (loan.calculateLoanEligibility()) {
+                    System.out.println("Loan Approved");
+                } else {
+                    System.out.println("Loan Rejected");
+                }
+            }
+            System.out.println("-----------------------------");
+        }
     }
 }

@@ -1,5 +1,6 @@
 package com.encapsulation.RideHailingApplication;
 
-public class GPS {
-
+interface GPS {
+    void updateLocation(String location);
+    String getCurrentLocation();
 }
