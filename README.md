@@ -1,140 +1,68 @@
-### 📅 Week 2: Object-Oriented Programming (OOPs)
+## 📅 Week 3 – Day 1: Data Structures (Linked Lists)  
+**📆 Date:** 2 January 2026  
 
 ---
 
-### 🗓 Day 1 – Objects and Classes  
-**(Date: 26-Dec-2025)**
+### 🔹 Topics Covered
 
-- Learned the fundamentals of Object-Oriented Programming (OOPs) in Java.
-- Implemented 10 programs (5 Level 1 + 5 Level 2) using real-world examples.
-- Understood object creation and real-world problem modeling.
+- Introduction of Data Structures  
+- Key Features of Data Structures in Java  
+- Types of Data Structures in Java  
+### Singly Linked List
+- Each node contains data and a reference to the next node.
+- Traversal is possible only in one direction.
+- Efficient insertion and deletion compared to arrays.
+  
+### Doubly Linked List 
+- Each node contains data, previous, and next references.
+- Traversal is possible in both forward and backward directions.
+- Requires extra memory due to additional pointer.
+  
+### Circular Linked List  
+- Last node points back to the first node.
+- No NULL references in the list.
+- Useful in applications like circular queues and scheduling.
 
-- Studied OOP concepts:
-  - Classes and Objects
-  - Constructors
-  - Methods
-  - Encapsulation
-  - Memory allocation basics
+### ✅ Practice Summary
+- Solved **multiple problems** based on Linked List concepts  
+- Practiced operations such as:
+  - Insertion and deletion
+  - Traversal techniques
+  - Understanding node structure and pointers  
+- Strengthened understanding of linear data structures  
+- Focused on problem-solving and logical implementation  
 
-- Level 1 Programs:
-  - Employee Details Program
-  - Area & Circumference of Circle
-  - Book Details Management
-  - Inventory Tracking System
-  - Mobile Phone Details Program
-
-- Level 2 Programs:
-  - Student Report & Grade Calculator
-  - ATM / Bank Account Simulation
-  - Palindrome String Checker
-  - Movie Ticket Booking System
-  - Shopping Cart Simulation
-
-🔗 **Code Link:**  
-👉 [Day 2 – Objects and Classes](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
-
----
-
-### 🗓 Day 2 – Constructors, Access Modifiers & OOPs Practice  
-**(Date: 27-Dec-2025)**
-
-- Focused on constructors, access modifiers, and OOP best practices.
-- Practiced writing clean and modular Java code.
-
-- Constructor Practice:
-  - Default and parameterized constructors
-  - Constructor chaining
-  - Copy constructors
-
-- Programs Implemented:
-  - Book Management System
-  - Hotel Booking System
-  - Library Book System
-  - Car Rental System
-
-- Instance vs Class Variables:
-  - Product Inventory System
-  - Online Course Management
-  - Vehicle Registration System
-
-- Access Modifiers Practice:
-  - University Management System
-  - Book Library System with EBook subclass
-  - Bank Account Management System
-  - Employee Records with Manager subclass
-
-- Organized code using proper packages.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 2 – Constructors](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor/levelone)
+**Code Link:** [LinkedList and its types](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-practice/DSA-Practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 
 ---
 
-## 🗓 Day 3 – Static, Final & Object Behavior  
-**Date:** 29 December 2025
+## Day 2: Stack, Queue & Hashing  
+**📆 Date:** 4 January 2026  
 
-On the third day of training, the focus was on understanding important Java keywords and operators that control memory, immutability, and object behavior. Along with theory, multiple real-world practice programs and scenario-based problems were implemented to strengthen practical understanding.
+### 🔹 Topics Covered
 
----
+- **Stack**
+  - Linear data structure following LIFO (Last In First Out)
+  - Operations: push, pop, peek
+  - Used in function calls, expression evaluation, and undo operations
 
-### ✅ Activities Completed
+- **Queue**
+  - Linear data structure following FIFO (First In First Out)
+  - Operations: enqueue, dequeue, front
+  - Used in scheduling, buffering, and resource management
 
-#### 📘 Learned Core Java Keywords and Concepts
-- **static keyword**  
-  (class-level variables and methods)
-- **final keyword**  
-  (constants, method prevention, and immutability)
-- **instanceof operator**  
-  (runtime object type checking)
+- **HashMap & Hashing Function**
+  - HashMap stores data in key–value pairs
+  - Hashing function converts keys into hash codes
+  - Enables fast insertion, deletion, and searching
+  - Handles collisions using techniques like chaining
 
-#### 🛠 Developed Practice Programs Using Real-World Entities
-- BankAccount  
-- Book  
-- Library  
-- Company  
-- Patient  
-- Product  
-- Student  
-- Vehicle  
+### ✅ Practice Summary
+- Solved **multiple problems** based on Stack and Queue operations  
+- Practiced usage of HashMap for efficient data storage and retrieval  
+- Understood working of hashing functions and collision handling  
+- Focused on time complexity and performance optimization  
 
-#### 🧩 Applied Object-Oriented Principles
-- Encapsulation  
-- Class design  
-- Method usage  
-
-#### ✨ Coding Practices
-- Practiced writing clean and structured Java programs  
-- Followed proper naming conventions  
-
-#### 🔄 Version Control
-- Committed and pushed all completed programs to the remote repository  
-- Used standard Git practices
-
----
-
-https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodelling/levelone
-
----
-
-## 🗓 Day 4 – Built-in Functions & Extra Work
-**Date:** 23 December 2025
-
-On the seventh day of training, the focus was on utilizing Java built-in functions and strengthening problem-solving skills through additional hands-on practice.
-
----
-
-### Activities Completed
-
-- Practiced the use of commonly used Java built-in functions.
-- Implemented utility-based programs, including:
-- Temperature Converter
-- Enhanced understanding of:
-- User input handling
-- Type conversion mechanisms
-#### Organized implemented programs into appropriate directories following standard project structure.
-#### Committed and pushed all changes to the remote repository using standard Git workflows.
-### 🔗 Code Reference:
-👉 [Day 4 – Built-in Functions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodelling/levelone)
+**Code Link:** [Hashmap, Stack & Queue](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-practice/DSA-Practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueues)
 
 ---
