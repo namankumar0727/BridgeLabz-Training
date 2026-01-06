@@ -435,3 +435,64 @@ On the seventh day of training, the focus was on utilizing Java built-in functio
 
 ---
 
+## Day 3: Sorting Algorithms  
+**📆 Date:** 5 January 2026  
+
+### 🔹 Topic Overview
+Sorting is a fundamental operation in computer science used to arrange elements in a specific order (ascending or descending).  
+Different sorting algorithms are used based on data size, performance needs, and memory constraints.
+
+### 🔹 Sorting Algorithms Covered
+
+- **Bubble Sort**
+  - Simple comparison-based sorting algorithm
+  - Repeatedly swaps adjacent elements if they are in the wrong order
+  - Suitable for small datasets and learning basics
+
+- **Insertion Sort**
+  - Builds the sorted list one element at a time
+  - Efficient for small or nearly sorted datasets
+
+- **Selection Sort**
+  - Repeatedly selects the minimum element and places it at the correct position
+  - Simple but inefficient for large datasets
+
+- **Merge Sort**
+  - Divide and Conquer algorithm
+  - Recursively divides the array and merges sorted subarrays
+  - Efficient and stable sorting technique
+
+- **Quick Sort**
+  - Divide and Conquer algorithm using a pivot element
+  - Very fast in average cases
+  - Widely used in real-world applications
+
+- **Heap Sort**
+  - Based on Binary Heap data structure
+  - Converts array into a heap and sorts elements
+  - Efficient and does not require extra memory
+
+- **Counting Sort**
+  - Non-comparison based sorting algorithm
+  - Works efficiently for small range integer values
+
+- **Radix Sort**
+  - Non-comparison based sorting technique
+  - Sorts numbers digit by digit
+  - Used for large datasets with fixed digit length
+
+- **Bucket Sort**
+  - Distributes elements into buckets and sorts them individually
+  - Effective when input is uniformly distributed
+
+### ✅ Practice Summary
+- Studied multiple sorting algorithms and their working principles  
+- Compared sorting techniques based on time and space complexity  
+- Understood use-cases for comparison and non-comparison based sorting  
+- Strengthened algorithmic thinking and problem-solving skills  
+
+**Code Link :** [Sorting algorithms](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-practice/DSA-Practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+
+---
+
+
