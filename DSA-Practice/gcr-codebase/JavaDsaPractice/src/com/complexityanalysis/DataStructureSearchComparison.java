@@ -10,6 +10,8 @@ public class DataStructureSearchComparison{
             if(arr[i]==target){
                 return true;
             }
+
+
         }
         return false;
     }
