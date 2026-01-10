@@ -9,6 +9,8 @@ public class StringConcatenationPerformance{
 
         for(int i=0;i<n;i++){
             str=str+"hello";
+
+
         }
 
         long end=System.nanoTime();
