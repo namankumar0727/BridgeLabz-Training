@@ -221,3 +221,46 @@ On the seventh day of training, the focus was on utilizing Java built-in functio
 - Focused on readability, maintainability, and design principles
 
 **🔗 Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)  
+
+
+## 🧠 Solved Scenario-Based Questions
+**📆 Date:** 8 January 2026  
+
+### 🔹 Problem Statements
+
+#### 1️⃣ MediStore – Pharmacy Inventory & Sales System
+- Pharmacy chain application to manage drug inventory  
+- Handles medicine sales and stock updates  
+- Tracks drug expiry dates to avoid selling expired medicines  
+
+#### 2️⃣ TourMate – Travel Itinerary Planner
+- Helps travelers plan and organize trips  
+- Manages activities, transportation, and accommodation details  
+- Supports trip scheduling and booking workflows  
+
+**Code Reference :** 👉 [Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com)
+
+
+---
+
+## 🧠 Solved Scenario-Based Questions
+**📆 Date:** 9 January 2026  
+
+### 🔹 Problem Statements
+
+#### 1️⃣ Artify – Digital Art Marketplace
+- Platform for artists to sell digital artwork  
+- Buyers can purchase, license, or subscribe to art collections  
+- Manages users, artwork listings, and transactions  
+
+#### 2️⃣ FoodLoop – Restaurant Ordering System
+- Allows users to browse menus from local restaurants  
+- Supports food ordering and order management  
+- Handles customer and restaurant interactions  
+
+#### 3️⃣ SkillForge – Online Learning Portal
+- Online platform for skill-based learning  
+- Instructors upload courses  
+- Students enroll, complete courses, and receive certifications  
+
+**Code Reference :** 👉 [Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com)
