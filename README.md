@@ -534,4 +534,41 @@ Different sorting algorithms are used based on data size, performance needs, and
 
 ---
 
+## 🗓 Day 5: Runtime Analysis & Big O Notation
+**📆 Date:** 7 January 2026  
 
+### 🔹 Topics Covered
+
+#### 1️⃣ Algorithm Analysis
+- Time and space complexity fundamentals  
+- Big O Notation for performance evaluation  
+- Best-case, average-case, and worst-case analysis  
+
+#### 2️⃣ Optimization Techniques
+- Choosing appropriate data structures  
+- Reducing nested loops and redundant computations  
+- Using memoization and dynamic programming  
+- Avoiding inefficient recursion  
+- Optimizing memory usage  
+
+#### 3️⃣ Performance Benchmarking
+- Execution time measurement using `System.nanoTime()`  
+- Comparative analysis of algorithms and data structures  
+
+### ✅ Practice Summary
+Solved **6 performance analysis problems** focused on runtime optimization:
+- Linear Search vs Binary Search Performance Comparison  
+- Sorting Large Data (Bubble Sort vs Merge Sort vs Quick Sort)  
+- String vs StringBuilder vs StringBuffer Performance  
+- FileReader vs InputStreamReader Efficiency  
+- Recursive vs Iterative Fibonacci Comparison  
+- Searching Performance: Array vs HashSet vs TreeSet  
+
+### 🧠 Scenario-Based Implementations (OOPM)
+- **BookBazaar** – Digital Bookstore System  
+- **LoanBuddy** – Loan Approval Automation  
+- **ParkEase** – Smart Parking Management System  
+
+**Code Link :** [Day 05 – Runtime Analysis & Optimization](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/gcr-codebase/JavaDsaPractice/src/com/complexityanalysis)
+
+---
