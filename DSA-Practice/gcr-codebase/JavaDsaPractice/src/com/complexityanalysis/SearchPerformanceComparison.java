@@ -7,6 +7,8 @@ public class SearchPerformanceComparison{
     public static int linearSearch(int[] arr,int target){
         for(int i=0;i<arr.length;i++){
             if(arr[i]==target){
+
+
                 return i;
             }
         }
@@ -56,8 +58,8 @@ public class SearchPerformanceComparison{
         binarySearch(data,target);
         long endBinary=System.nanoTime();
 
-        System.out.println("Dataset Size: "+size);
-        System.out.println("Linear Search Time : "+(endLinear-startLinear)+" ns");
-        System.out.println("Binary Search Time : "+(endBinary-startBinary)+" ns");
+        System.out.println("Dataset Size - "+size);
+        System.out.println("Linear Search Time - "+(endLinear-startLinear)+" ns");
+        System.out.println("Binary Search Time - "+(endBinary-startBinary)+" ns");
     }
 }
