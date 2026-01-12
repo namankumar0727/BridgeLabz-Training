@@ -643,3 +643,30 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 - Helps determine the nearest available unit for emergency treatment  
 
 👉 **Code Reference :** 👉 [Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com)
+
+
+## 🧠 Solved Scenario-Based Questions on DSA  
+**📆 Date:** 12 January 2026  
+
+### 🔹 Problem Statements
+
+#### 1️⃣ CallCenter – Customer Queue Manager *(Queue + HashMap)*
+- Telecom call center where customers are queued based on **call time**  
+- **Priority customers** are handled using a special queue  
+- A **HashMap** tracks how many times each user has called during the current month  
+
+#### 2️⃣ TrainCompanion – Compartment Navigation System *(Doubly Linked List)*
+- Long-distance train application for passenger navigation  
+- Passengers can move to the **next** or **previous** compartment  
+- Allows searching for services like **pantry** and **WiFi**  
+- Each compartment is represented as a node in a **Doubly Linked List**  
+
+#### 3️⃣ TextEditor – Undo/Redo Functionality *(Stack)*
+- Basic text editor developed by Shanaya  
+- Every action (insert, delete, format) is pushed onto a **Stack**  
+- **Undo** operation pops the last action from the stack  
+- **Redo** operation uses a second stack to reapply undone actions  
+
+### 🔗 Code Reference
+👉 **Code Reference :** 👉 [Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com)
+
