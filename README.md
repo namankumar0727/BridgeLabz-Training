@@ -162,3 +162,31 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 - **ParkEase** – Smart Parking Management System  
 
 **Code Link :** [Day 05 – Runtime Analysis & Optimization](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/gcr-codebase/JavaDsaPractice/src/com/complexityanalysis)
+
+---
+
+## 🧠 Solved Scenario-Based Questions on DSA  
+**📆 Date:** 10 January 2026  
+
+### 🔹 Problem Statements
+
+#### 1️⃣ BookShelf – Library Organizer *(HashMap + Linked List)*
+- Library system where books are arranged based on **genre** and **author**  
+- Uses a **HashMap** to map `genre → list of books`  
+- Each genre contains a **LinkedList** of books  
+- The list is dynamically updated when books are **borrowed** or **returned**
+
+#### 2️⃣ BrowserBuddy – Tab History Manager *(Doubly Linked List + Stack)*
+- Custom browser developed by Neha  
+- Each open tab maintains its browsing history  
+- Supports **Back** and **Forward** operations  
+- Uses a **Doubly Linked List** to manage browsing history  
+- Uses a **Stack** to store closed tabs for reopening  
+
+#### 3️⃣ AmbulanceRoute – Emergency Patient Navigation *(Circular Linked List)*
+- Hospital buildings connected in a circular sequence:  
+  `Emergency → Radiology → Surgery → ICU → Emergency`  
+- Ambulance follows a **Circular Linked List**  
+- Helps determine the nearest available unit for emergency treatment  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com)
