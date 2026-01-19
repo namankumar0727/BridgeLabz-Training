@@ -264,3 +264,31 @@ On the seventh day of training, the focus was on utilizing Java built-in functio
 - Students enroll, complete courses, and receive certifications  
 
 **Code Reference :** 👉 [Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com)
+
+---
+
+## 🧠 Solved Scenario-Based Questions on OOPS  
+
+**📆 Date:** 13 January 2026  
+
+## ☕ Java OOP Scenario
+
+### 🔹 Problem Statements
+
+#### 1️⃣ HomeNest – Smart Home Device Manager  
+- A smart home management system to control **lights, ACs, locks, and cameras**  
+- Demonstrates **OOP principles** like *Inheritance* and *Polymorphism*  
+- Each device type behaves differently but follows a common structure  
+
+#### 2️⃣ BudgetWise – Personal Finance Tracker  
+- Helps users plan **monthly budgets**  
+- Tracks **income and expenses** across multiple categories  
+- Uses OOP concepts for modular and maintainable design  
+
+#### 3️⃣ GameBox – Mobile Game Distribution Platform  
+- Platform for **downloading and purchasing mobile games**  
+- Features include **game demos, user reviews, and leaderboards**  
+- Uses classes and interfaces to manage games and users  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
+
