@@ -733,3 +733,21 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 - HashMap stores question–answer mappings  
 
 👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
+
+---
+
+# 🧠 Solved Scenario-Based Questions on OOPS  
+
+**📆 Date:** 14 January 2026  
+
+## ☕ Java OOP Scenario
+
+### 🔹 Problem Statements
+
+#### 1️⃣ PayXpress – Utility Bill Payment System
+ - PayXpress enables users to pay utility bills (electricity, water, internet) with tracking and reminders.
+
+#### 2️⃣ Bird Sanctuary
+- Design and implement a Bird Sanctuary system to manage different types of birds, utilizing Inheritance and Polymorphism.
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
