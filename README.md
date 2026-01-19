@@ -668,5 +668,68 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 - **Redo** operation uses a second stack to reapply undone actions  
 
 ### 🔗 Code Reference
-👉 **Code Reference :** 👉 [Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com)
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
 
+---
+
+## 🧠 Solved Scenario-Based Questions on DSA and OOPS  
+
+**📆 Date:** 13 January 2026  
+
+## ☕ Java OOP Scenario
+
+### 🔹 Problem Statements
+
+#### 1️⃣ HomeNest – Smart Home Device Manager  
+- A smart home management system to control **lights, ACs, locks, and cameras**  
+- Demonstrates **OOP principles** like *Inheritance* and *Polymorphism*  
+- Each device type behaves differently but follows a common structure  
+
+#### 2️⃣ BudgetWise – Personal Finance Tracker  
+- Helps users plan **monthly budgets**  
+- Tracks **income and expenses** across multiple categories  
+- Uses OOP concepts for modular and maintainable design  
+
+#### 3️⃣ GameBox – Mobile Game Distribution Platform  
+- Platform for **downloading and purchasing mobile games**  
+- Features include **game demos, user reviews, and leaderboards**  
+- Uses classes and interfaces to manage games and users  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
+
+---
+
+## 📘 Java DSA Scenario
+
+### 🔹 Problem Statements
+
+#### 1️⃣ TrafficManager – Roundabout Vehicle Flow  
+*(Circular Linked List + Queue)*  
+- Manages vehicle movement at a roundabout  
+- Circular linked list represents continuous traffic flow  
+- Queue manages vehicle entry and exit  
+
+#### 2️⃣ BookShelf – Library Organizer  
+*(HashMap + Linked List)*  
+- Organizes books by **category and order**  
+- HashMap for fast category lookup  
+- Linked List maintains book sequence  
+
+#### 3️⃣ SmartCheckout – Supermarket Billing Queue  
+*(Queue + HashMap)*  
+- Handles customer billing at checkout counters  
+- Queue manages customer order  
+- HashMap stores item prices and quantities  
+
+#### 4️⃣ ParcelTracker – Delivery Chain Management  
+*(Singly Linked List)*  
+- Tracks parcel movement through delivery centers  
+- Each node represents a delivery stage  
+
+#### 5️⃣ ExamProctor – Online Exam Review System  
+*(Stack + HashMap + Functions)*  
+- Reviews student answers during online exams  
+- Stack manages answer revisions  
+- HashMap stores question–answer mappings  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
