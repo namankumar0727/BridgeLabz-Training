@@ -218,3 +218,42 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 ### 🔗 Code Reference
 👉 **Code Reference :** 👉 [Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com)
 
+---
+## 🧠 Solved Scenario-Based Questions on DSA  
+
+**📆 Date:** 13 January 2026  
+
+## 📘 Java DSA Scenario
+
+### 🔹 Problem Statements
+
+#### 1️⃣ TrafficManager – Roundabout Vehicle Flow  
+*(Circular Linked List + Queue)*  
+- Manages vehicle movement at a roundabout  
+- Circular linked list represents continuous traffic flow  
+- Queue manages vehicle entry and exit  
+
+#### 2️⃣ BookShelf – Library Organizer  
+*(HashMap + Linked List)*  
+- Organizes books by **category and order**  
+- HashMap for fast category lookup  
+- Linked List maintains book sequence  
+
+#### 3️⃣ SmartCheckout – Supermarket Billing Queue  
+*(Queue + HashMap)*  
+- Handles customer billing at checkout counters  
+- Queue manages customer order  
+- HashMap stores item prices and quantities  
+
+#### 4️⃣ ParcelTracker – Delivery Chain Management  
+*(Singly Linked List)*  
+- Tracks parcel movement through delivery centers  
+- Each node represents a delivery stage  
+
+#### 5️⃣ ExamProctor – Online Exam Review System  
+*(Stack + HashMap + Functions)*  
+- Reviews student answers during online exams  
+- Stack manages answer revisions  
+- HashMap stores question–answer mappings  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
