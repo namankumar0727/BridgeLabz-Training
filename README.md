@@ -751,3 +751,46 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 - Design and implement a Bird Sanctuary system to manage different types of birds, utilizing Inheritance and Polymorphism.
 
 👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
+
+---
+
+## 🧠 Solved Scenario-Based Questions on Sorting Algorithms  
+**📆 Date:** 15 January 2026  
+
+## 🔢 Sorting Algorithm Scenarios
+
+### 🔹 Problem Statements
+
+#### 1️⃣ HospitalQueue – Patient Sorting by Criticality  
+*(Bubble Sort)*  
+- Hospital system to manage patients based on **criticality level**  
+- Patients with higher criticality are prioritized  
+- **Bubble Sort** is used to repeatedly compare and swap patients until sorted  
+
+#### 2️⃣ SmartShelf – Real-Time Book Arrangement  
+*(Insertion Sort)*  
+- Digital bookshelf system that arranges books as they are added  
+- New books are inserted into their correct position  
+- **Insertion Sort** efficiently handles nearly sorted data  
+
+#### 3️⃣ ZipZipMart – Daily Sales Summary Report  
+*(Merge Sort)*  
+- E-commerce platform generating daily sales reports  
+- Large sales data is divided and merged in sorted order  
+- **Merge Sort** ensures stable and efficient sorting for big datasets  
+
+#### 4️⃣ EventManager – Ticket Price Optimizer  
+*(Quick Sort)*  
+- Event management system to optimize and sort ticket prices  
+- Uses a **pivot-based partitioning** approach  
+- **Quick Sort** provides fast average-case performance  
+
+#### 5️⃣ ExamCell – Student Rank Generator  
+*(Merge Sort)*  
+- Examination system that generates student ranks based on marks  
+- Handles large numbers of students efficiently  
+- **Merge Sort** maintains correct ordering and consistency  
+
+---
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
