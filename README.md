@@ -309,3 +309,14 @@ On the seventh day of training, the focus was on utilizing Java built-in functio
 - Design and implement a Bird Sanctuary system to manage different types of birds, utilizing Inheritance and Polymorphism.
 
 👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
+
+---
+
+## 🧠 Solved Scenario-Based OOPS
+
+**📆 Date:** 17 January 2026  
+
+- **GeoMeasure Solutions**  
+- **Bag-n-Ball Organizer**  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
