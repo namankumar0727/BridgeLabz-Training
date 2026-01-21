@@ -299,3 +299,17 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 - **Merge Sort** maintains correct ordering and consistency  
 
 👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
+
+---
+
+## 🧠 Solved Scenario-Based Questions on DSA  
+
+**📆 Date:** 16 January 2026  
+
+- **RoboWarehouse** – Shelf Loading Robot *(Insertion Sort)*
+- **CinemaHouse** – Movie Time Sorting *(Bubble Sort)*
+- **CropMonitor** – Sensor Data Ordering *(Quick Sort)*
+- **ArtExpo** – Sort Artists by Registration Time *(Insertion Sort)*
+- **FleetManager** – Vehicle Maintenance Scheduler *(Merge Sort)*
+
+👉 **Code Reference :** 👉 [DSA Scenerio-Based]([Scenerio Based Questions ](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
