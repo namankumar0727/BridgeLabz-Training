@@ -320,3 +320,13 @@ On the seventh day of training, the focus was on utilizing Java built-in functio
 - **Bag-n-Ball Organizer**  
 
 👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
+
+---
+
+## 🧠 Solved Scenario-Based OOPS  
+
+**📆 Date:** 19 January 2026 
+
+- **Address Book System**  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
