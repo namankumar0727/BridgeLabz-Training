@@ -834,3 +834,65 @@ Implemented **5 scenario-based systems** using Java Generics:
 
 
 ---
+
+### 🗓 Day 2: Java Collections Framework  
+**Date:** 17 January 2026
+
+### 🔹 Topics Covered
+- List Interface  
+- Set Interface  
+- Queue Interface  
+- Map Interface  
+
+### ✅ Practice Summary
+Solved Collections-based problems across **List, Set, Queue, and Map**:
+
+#### 🔸 List Problems
+- Reverse a List (ArrayList & LinkedList)  
+- Find Frequency of Elements  
+- Rotate Elements in a List  
+- Remove Duplicates While Preserving Order  
+- Find Nth Element from End  
+
+#### 🔸 Set Problems
+- Check if Two Sets Are Equal  
+- Union and Intersection of Sets  
+- Symmetric Difference  
+- Convert Set to Sorted List  
+- Check Subset  
+
+#### 🔸 Queue Problems
+- Reverse a Queue  
+- Generate Binary Numbers  
+- Hospital Triage System  
+- Stack Using Queues  
+- Circular Buffer Simulation  
+
+#### 🔸 Map Problems
+- Word Frequency Counter  
+- Invert a Map  
+- Find Key with Highest Value  
+- Merge Two Maps  
+- Group Objects by Property  
+
+👉 **Code Reference :** 👉 [Java Collections Practice]([java Collections Practice](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/collections))
+
+---
+
+## 🧠 Solved Scenario-Based Questions on Sorting Algorithms
+
+- **ArtExpo** – Sort Artists by Registration Time *(Insertion Sort)*  
+- **FleetManager** – Vehicle Maintenance Scheduler *(Merge Sort)*  
+- **IceCreamRush** – Sorting Flavors by Popularity *(Bubble Sort)*  
+- **SmartLibrary** – Auto-Sort Borrowed Books *(Insertion Sort)*  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
+
+---
+
+## 🧠 Solved Scenario-Based OOPS
+
+- **GeoMeasure Solutions**  
+- **Bag-n-Ball Organizer**  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/OopsScenerioBased/src/com))
