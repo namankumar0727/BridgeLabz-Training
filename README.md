@@ -313,3 +313,18 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 - **FleetManager** – Vehicle Maintenance Scheduler *(Merge Sort)*
 
 👉 **Code Reference :** 👉 [DSA Scenerio-Based]([Scenerio Based Questions ](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
+
+---
+
+## 🧠 Solved Scenario-Based Questions on DSA  
+
+**📆 Date:** 17 January 2026
+
+- **ArtExpo** – Sort Artists by Registration Time *(Insertion Sort)*  
+- **FleetManager** – Vehicle Maintenance Scheduler *(Merge Sort)*  
+- **IceCreamRush** – Sorting Flavors by Popularity *(Bubble Sort)*  
+- **SmartLibrary** – Auto-Sort Borrowed Books *(Insertion Sort)*  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
+
+---
