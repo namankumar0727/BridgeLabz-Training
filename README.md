@@ -68,3 +68,34 @@ Solved Collections-based problems across **List, Set, Queue, and Map**:
 - Group Objects by Property  
 
 👉 **Code Reference :** 👉 [Java Collections Practice]([java Collections Practice](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/collections))
+
+---
+
+
+### 🗓 Day 3: File Handling & Streams in Java  
+**Date:** 19 January 2026
+
+### 🔹 Topics Covered
+- FileInputStream & FileOutputStream  
+- Buffered Streams and performance comparison  
+- Console input using BufferedReader  
+- Object Serialization & Deserialization  
+- ByteArray Streams  
+- Filter Streams  
+- Data Streams  
+- Piped Streams (Inter-thread communication)  
+- Efficient large file processing  
+
+### ✅ Practice Problems
+- Read and Write a Text File  
+- File Copy using Buffered Streams  
+- Read User Input and Save to File  
+- Employee Data Serialization  
+- Image to ByteArray Conversion  
+- Uppercase to Lowercase File Conversion  
+- Store & Retrieve Primitive Data  
+- Piped Streams for Thread Communication  
+- Read Large File and Filter Errors  
+- Word Count with Top 5 Frequent Words  
+
+👉 **Code Reference :** 👉 [Java-Collections-Based Questions]((https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/javastreams))
