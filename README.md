@@ -328,3 +328,15 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))
 
 ---
+
+## 🧠 Solved Scenario-Based Questions on Sorting Algorithms  
+
+**📆 Date:** 19 January 2026
+
+- **EduResults** – Rank Sheet Generator *(Merge Sort)*  
+- **FlashDealz** – Product Sorting by Discount *(Quick Sort)*  
+- **FitnessTracker** – Daily Step Count Ranking *(Bubble Sort)*  
+
+👉 **Code Reference :** 👉 [Scenario-Based Questions]([Scenario-Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/DSA-Practice/DSA-Practice/Scenerio-based/DsaScenerioBased/bin/com))  
+
+---
