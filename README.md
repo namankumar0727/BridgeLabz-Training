@@ -99,3 +99,34 @@ Solved Collections-based problems across **List, Set, Queue, and Map**:
 - Word Count with Top 5 Frequent Words  
 
 👉 **Code Reference :** 👉 [Java-Collections-Based Questions]((https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/javastreams))
+
+---
+
+### 🗓 Day 4: Exception Handling in Java  
+**Date:** 20 January 2026
+
+### 🔹 Topics Covered
+- Checked and Unchecked Exceptions  
+- Custom (User-defined) Exceptions  
+- Multiple catch blocks  
+- try-with-resources  
+- throw vs throws  
+- finally block  
+- Exception propagation  
+- Nested try-catch  
+
+### ✅ Practice Problems
+- File Not Found Handling *(Checked Exception)*  
+- Division with User Input *(Unchecked Exceptions)*  
+- InvalidAgeException *(Custom Exception)*  
+- Array Operations with Multiple Catch  
+- try-with-resources File Reader  
+- throw vs throws *(Interest Calculator)*  
+- finally Block Demonstration  
+- Exception Propagation in Methods  
+- Nested try-catch *(Array & Division)*  
+- Bank Transaction System *(Custom + Checked Exceptions)*  
+
+👉 **Code Reference :** 👉 [Java Exception Handling Practice](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/Exceptions)
+
+---
