@@ -976,3 +976,58 @@ Solved Collections-based problems across **List, Set, Queue, and Map**:
 
 ---
 
+
+---
+
+## Day 5: Java Regex & JUnit Testing
+**Date:** 21 January 2026
+
+## Topics Covered
+- Regular Expressions (Regex)
+  - Pattern validation
+  - Data extraction
+  - String replacement and manipulation
+  - Advanced pattern matching
+- JUnit Testing
+  - Unit testing basics
+  - Exception testing
+  - Lifecycle annotations
+  - Parameterized tests
+  - Performance testing
+  - File handling tests
+
+## Practice Problems
+- Regex Problems
+  - Username Validation
+  - License Plate Validation
+  - Hex Color Code Validation
+  - Extract Email Addresses
+  - Extract Capitalized Words
+  - Extract Dates (dd/mm/yyyy)
+  - Extract Links
+  - Replace Multiple Spaces
+  - Censor Bad Words
+  - Validate IP Address
+  - Validate Credit Card Number
+  - Extract Programming Languages
+  - Extract Currency Values
+  - Find Repeating Words
+  - Validate SSN
+- JUnit Problems
+  - Calculator Unit Tests
+  - String Utility Tests
+  - List Operations Tests
+  - Exception Handling Tests
+  - @BeforeEach & @AfterEach Usage
+  - Parameterized Tests
+  - Performance Testing with @Timeout
+  - File Handling Tests
+- Advanced JUnit
+  - Banking Transaction Tests
+  - Password Strength Validator
+  - Temperature Converter
+  - Date Formatter
+  - User Registration Validation
+
+👉 **Code Reference :** 👉 [Java Regex and JUnit Practice](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
+
