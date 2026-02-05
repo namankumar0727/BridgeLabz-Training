@@ -136,3 +136,41 @@ Code Reference: [Java Interfaces Practice](https://github.com/namankumar0727/Bri
 - Transforming Names for Display
 
 Code Reference: [Stream Operations & Parallel Streams](https://github.com/namankumar0727/BridgeLabz-Training/tree/Java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
+
+
+---
+
+## Day 4: Collectors – Roles and Capabilities
+**Date:** 30 January 2026
+
+## Concept
+- Collectors in Java 8 are utility methods used with Stream.collect()
+- Used to accumulate stream elements into collections, maps, strings, or statistical summaries
+
+## Roles of Collectors
+- Transform Data
+- Aggregate Data
+- Group Data
+- Partition Data
+
+## Common Collector Capabilities
+- toList(), toSet(), toMap()
+- joining()
+- groupingBy()
+- partitioningBy()
+- summarizingInt()
+
+## Example
+Map<Character, List<String>> grouped =
+Arrays.asList("apple", "banana", "avocado")
+.stream()
+.collect(Collectors.groupingBy(s -> s.charAt(0)));
+
+## Questions Practice
+- Student Result Grouping
+- Word Frequency Counter
+- Order Revenue Summary
+- Employee Salary Categorization
+- Library Book Statistics
+
+Code Reference: Collectors – [Roles and Capabilities](https://github.com/namankumar0727/BridgeLabz-Training/tree/Java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
