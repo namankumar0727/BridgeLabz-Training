@@ -174,3 +174,38 @@ Arrays.asList("apple", "banana", "avocado")
 - Library Book Statistics
 
 Code Reference: Collectors – [Roles and Capabilities](https://github.com/namankumar0727/BridgeLabz-Training/tree/Java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
+
+---
+
+## Day 5: Smart City Transport & Service Management System
+**Date:** 31 January 2026
+
+## Case Study Overview
+- Integrated system managing buses, metros, taxis, and EV charging stations
+- Uses Java 8 features to manage routes, schedules, passengers, and dashboards
+
+## Java 8 Features Used
+- Lambda Expressions
+- Method References
+- Interfaces and Default Methods
+- Static Methods in Interfaces
+- Functional Interfaces
+- Stream API
+- forEach()
+- Collectors
+- Marker Interfaces
+
+## System Goals
+- Filter, group, and summarize transport data in real time
+- Display live transport schedules dynamically
+- Easily extend the system with new services
+- Prioritize emergency services
+
+## Real-Time Flow
+- Passenger booking → Lambdas filter and sort services
+- Dashboard updates → forEach() displays services
+- Revenue reports → Collectors summarize data
+- System expansion → New services implement interfaces
+- Emergency handling → Marker interface enables priority access
+
+Code Reference: [Smart City Transport & Service Management System](https://github.com/namankumar0727/BridgeLabz-Training/tree/Java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
