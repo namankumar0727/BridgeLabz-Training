@@ -1,0 +1,25 @@
+package com.multithreading.download_manager;
+
+import java.util.Random;
+
+class FileDownloaderThread extends Thread {
+    private String fileName;
+    private Random random = new Random();
+
+    public FileDownloaderThread(String fileName) {
+        this.fileName = fileName;
+    }
+
+    @Override
+    public void run() {
+        try {
+            for (int progress = 0; progress <= 100; progress += 10) {
+                System.out.println("[" + Thread.currentThread().getName() +
+                        "] Downloading " + fileName + ": " + progress + "%");
+                Thread.sleep(200 + random.nextInt(500)); // random delay
+            }
+        } catch (InterruptedException e) {
+            System.out.println(fileName + " download interrupted.");
+        }
+    }
+}
