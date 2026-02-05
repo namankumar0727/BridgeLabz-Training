@@ -1,0 +1,23 @@
+Name: Rahul Sharma
+Email: rahul.sharma@gmail.com
+Phone: 9876543210
+
+Career Objective:
+Motivated software developer seeking a challenging role in a growth-oriented organization.
+
+Technical Skills:
+Java
+Spring
+Python
+Java
+
+Education:
+Bachelor of Technology in Computer Science
+XYZ University
+
+Projects:
+Developed a web application using Java and Spring framework.
+Worked on data processing scripts using Python.
+
+Declaration:
+I hereby declare that the information provided above is true to the best of my knowledge.
