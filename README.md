@@ -90,3 +90,49 @@ Code Reference: [Java Lambda & Method References](https://github.com/namankumar0
 - Sensitive Data Tagging
 
 Code Reference: [Java Interfaces Practice](https://github.com/namankumar0727/BridgeLabz-Training/tree/Java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
+
+---
+
+## Day 3: Stream Operations & Parallel Streams
+**Date:** 29 January 2026
+
+## Topics Covered
+- Intermediate Operations
+  - filter
+  - map
+  - flatMap
+  - distinct
+  - sorted
+  - peek
+  - limit
+  - skip
+- Terminal Operations
+  - collect
+  - forEach
+  - reduce
+  - count
+  - anyMatch
+  - allMatch
+  - noneMatch
+- Stateless vs Stateful Operations
+  - Stateless: filter, map
+  - Stateful: sorted, distinct
+- Ordered vs Unordered Streams
+  - Ordered streams preserve encounter order
+  - Unordered streams allow performance optimization
+- Parallel Streams
+  - Enable multi-threaded processing
+  - Improve performance for large data sets
+  - Order not guaranteed unless preserved
+- forEach(): Iterable vs Stream
+  - Iterable forEach is sequential and ordered
+  - Stream forEach may be unordered, especially in parallel streams
+
+## Questions Practice
+- Top 5 Trending Movies
+- Hospital Doctor Availability
+- Insurance Claim Analysis
+- Filtering Expiring Memberships
+- Transforming Names for Display
+
+Code Reference: [Stream Operations & Parallel Streams](https://github.com/namankumar0727/BridgeLabz-Training/tree/Java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
