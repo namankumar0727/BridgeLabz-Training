@@ -1134,3 +1134,56 @@ Solved Collections-based problems across **List, Set, Queue, and Map**:
 - ExamScanner – Digital Answer Sheet Validator
 
 👉 **Code Reference :** 👉 [Scenerio Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenerio-based/ScenerioBasedQuestions/src/com)
+
+---
+
+## Day 2: JSON Data Handling in Java
+**Date:** 24 January 2026
+
+## Topics Covered
+- Creating and parsing JSON objects
+- Java Object ↔ JSON conversion
+- Reading and filtering JSON data
+- JSON validation using Jackson / Schema
+- JSON ↔ CSV conversion
+- JSON ↔ XML conversion
+- Generating JSON reports from database
+
+## Practice Problems
+- JSON Basics
+  - Create Student JSON Object
+  - Convert Java Object to JSON
+  - Read JSON and Extract Fields
+  - Merge JSON Objects
+  - Validate JSON Structure
+  - Java List to JSON Array
+  - Filter JSON Records (age > 25)
+- Hands-on JSON Tasks
+  - Read JSON and Print Keys/Values
+  - Filter Users by Age
+  - Validate Email using JSON Schema
+  - Merge JSON Files
+  - Convert JSON ↔ XML
+  - Convert CSV to JSON
+  - Generate JSON from Database
+
+## Mini Project
+- IPL and Censor Analyzer
+  - Read IPL data from JSON and CSV
+  - Apply censorship rules on team names and players
+  - Generate sanitized JSON and CSV outputs
+
+ 👉 **Code Reference :** 👉 [Java-IO-Programming](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaInputOutputStreams/src/com/json_handling)
+
+---
+
+## Scenario-Based Questions on Collections, Generics, I/O Streams, and Regex
+**Date:** 24 January 2026
+
+- MedInventory – Smart Hospital Inventory Tracker
+- ChatLogParser – Messaging Pattern Analyzer
+- SongVault – Personal Music Library Manager
+- ExamResultUploader – Bulk Marks Processing
+- DealTracker – E-Commerce Discount Validator
+
+👉 **Code Reference :** 👉 [Scenerio Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenerio-based/ScenerioBasedQuestions/src/com)
