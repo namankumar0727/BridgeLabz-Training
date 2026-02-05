@@ -37,3 +37,56 @@
 - Hospital Patient ID Printing
 
 Code Reference: [Java Lambda & Method References](https://github.com/namankumar0727/BridgeLabz-Training/tree/Java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
+
+---
+
+## Day 2: Interfaces & Functional Interfaces
+**Date:** 28 January 2026
+
+## Topics Covered
+- Defining and Implementing Interfaces (Best Practices)
+- Functional Interfaces
+- Default Methods in Interfaces
+- Static Methods in Interfaces
+- Marker Interfaces
+- Java interface design and functional programming concepts
+- Abstraction, loose coupling, and multiple inheritance using interfaces
+
+## Best Practices for Interfaces
+- Keep interfaces small and focused (Single Responsibility)
+- Prefer functional interfaces for lambda compatibility
+- Use default methods sparingly
+- Avoid breaking changes in public interfaces
+
+## Why Functional Interfaces?
+- Exactly one abstract method
+- Enable usage of lambda expressions
+- Improve code flexibility and readability
+
+## Default & Static Methods
+- Default methods allow behavior addition without breaking implementations
+- Static methods belong to the interface, not the implementing class
+
+## Marker Interfaces
+- Do not contain methods
+- Used to mark a class with special behavior
+- Examples: Serializable, Cloneable
+
+## Questions Practice
+- Smart Device Control Interface
+- Multi-Vehicle Rental System
+- Digital Payment Interface
+- Temperature Alert System
+- String Length Checker
+- Background Job Execution
+- Password Strength Validator
+- Unit Conversion Tool
+- Date Format Utility
+- Payment Gateway Integration
+- Data Export Feature
+- Smart Vehicle Dashboard
+- Data Serialization for Backup
+- Cloning Prototype Objects
+- Sensitive Data Tagging
+
+Code Reference: [Java Interfaces Practice](https://github.com/namankumar0727/BridgeLabz-Training/tree/Java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
