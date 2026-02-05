@@ -181,5 +181,54 @@ Solved Collections-based problems across **List, Set, Queue, and Map**:
   - Date Formatter
   - User Registration Validation
 
-👉 **Code Reference :** 👉 [Java Regex and JUnit Practice]
-(https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
+👉 **Code Reference :** 👉 [Java Regex and JUnit Practice](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
+
+---
+
+## Day 6: Java Reflection & Annotations
+**Date:** 21 January 2026
+
+## Topics Covered
+- Reflection API
+  - Class metadata inspection
+  - Dynamic object creation
+  - Accessing private fields and methods
+  - Runtime annotation processing
+  - Dynamic proxies and method invocation
+  - Dependency Injection using Reflection
+- Annotations
+  - Built-in annotations (@Override, @Deprecated, @SuppressWarnings)
+  - Custom annotations
+  - Repeatable annotations
+  - Annotation-based validation, logging, caching, and security
+
+## Practice Problems
+- Reflection Problems
+  - Get Class Information
+  - Access Private Fields
+  - Invoke Private Methods
+  - Dynamic Object Creation
+  - Dynamic Method Invocation
+  - Retrieve Annotations at Runtime
+  - Modify Static Fields
+  - Custom Object Mapper
+  - Object to JSON Conversion
+  - Logging Proxy using Reflection
+  - Dependency Injection
+  - Method Execution Timing
+- Built-in Annotations
+  - @Override Usage
+  - @Deprecated Methods
+  - @SuppressWarnings
+- Custom Annotations
+  - @TaskInfo Annotation
+  - Repeatable @BugReport
+  - @ImportantMethod
+  - @Todo Annotation
+  - @LogExecutionTime
+  - @MaxLength Validation
+  - @RoleAllowed Access Control
+  - @JsonField Serialization
+  - @CacheResult Caching
+
+👉 **Code Reference :** 👉 [Java Reflection and Annotation](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
