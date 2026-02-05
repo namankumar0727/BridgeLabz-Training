@@ -232,3 +232,25 @@ Solved Collections-based problems across **List, Set, Queue, and Map**:
   - @CacheResult Caching
 
 👉 **Code Reference :** 👉 [Java Reflection and Annotation](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
+
+---
+
+## Scenario-Based Questions on Collections, Generics, I/O Streams, and Regex
+**Date:** 23 January 2026
+
+- ResumeAnalyzer – Smart Resume Filtering System
+- TravelLog – Trip Organizer for Backpackers
+- FeedbackGuru – Smart Survey Analyzer
+- CodeRepoCleaner – Java File Scanner and Organizer
+- ExamScanner – Digital Answer Sheet Validator
+
+## Scenario-Based Questions on Collections, Generics, I/O Streams, and Regex
+**Date:** 24 January 2026
+
+- MedInventory – Smart Hospital Inventory Tracker
+- ChatLogParser – Messaging Pattern Analyzer
+- SongVault – Personal Music Library Manager
+- ExamResultUploader – Bulk Marks Processing
+- DealTracker – E-Commerce Discount Validator
+
+👉 **Code Reference :** 👉 [Java Reflection and Annotation](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenerio-based/ScenerioBasedQuestions/src/com)
