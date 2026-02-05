@@ -14,6 +14,7 @@ public class DownloadManagerThread {
         // Main thread waits for all downloads
         t1.join();
         t2.join();
+
         t3.join();
 
         System.out.println("All downloads complete!");
