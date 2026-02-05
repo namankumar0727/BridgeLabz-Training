@@ -1083,3 +1083,54 @@ Solved Collections-based problems across **List, Set, Queue, and Map**:
 👉 **Code Reference :** 👉 [Java Reflection and Annotation](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
 
 ---
+
+### Week 5 : Java IO Programming
+
+## Day 1: CSV Data Handling in Java
+**Date:** 23 January 2026
+
+## Topics Covered
+- Reading and writing CSV files
+- Filtering and searching records
+- Updating and sorting CSV data
+- CSV validation using regex
+- Converting CSV to Java objects
+- Handling large CSV files efficiently
+- Data merging and duplicate detection
+- CSV ↔ JSON conversion
+- Encrypting and decrypting CSV data
+
+## Practice Problems
+- Basic
+  - Read CSV and Print Records
+  - Write Employee Data to CSV
+  - Count Records in CSV
+- Intermediate
+  - Filter Students by Marks
+  - Search Employee by Name
+  - Update Salary by Department
+  - Sort Records by Salary
+- Advanced
+  - Validate CSV Data
+  - CSV to Java Objects
+  - Merge Two CSV Files
+  - Large CSV File Processing
+  - Detect Duplicate Records
+  - Generate CSV from Database
+  - Convert JSON ↔ CSV
+  - Encrypt & Decrypt CSV Data
+
+👉 **Code Reference :** 👉 [Java-IO-Programming](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaInputOutputStreams/src/com/csvdatahandling)
+
+---
+
+## Scenario-Based Questions on Collections, Generics, I/O Streams, and Regex
+**Date:** 23 January 2026
+
+- ResumeAnalyzer – Smart Resume Filtering System
+- TravelLog – Trip Organizer for Backpackers
+- FeedbackGuru – Smart Survey Analyzer
+- CodeRepoCleaner – Java File Scanner and Organizer
+- ExamScanner – Digital Answer Sheet Validator
+
+👉 **Code Reference :** 👉 [Scenerio Based Questions](https://github.com/namankumar0727/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenerio-based/ScenerioBasedQuestions/src/com)
