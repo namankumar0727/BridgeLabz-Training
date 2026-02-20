@@ -1557,9 +1557,6 @@ Code Reference: [Multithreading-questions](https://github.com/namankumar0727/Bri
 
 ---
 
-# BridgeLabz-Training
-# 📘 BridgeLabz Training – MySQL JDBC Practice
-
 ## Week 8 - Day 1: Database SQL
 
 This repository contains hands-on practice programs for Java Database Connectivity (JDBC) using MySQL.
